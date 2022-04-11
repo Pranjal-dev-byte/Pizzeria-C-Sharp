@@ -1,0 +1,12 @@
+C:\Users\pranjal.misra\Desktop\PizzeriaApp.Data\bin\Debug\net5.0\PizzeriaApp.Data.deps.json
+C:\Users\pranjal.misra\Desktop\PizzeriaApp.Data\bin\Debug\net5.0\PizzeriaApp.Data.dll
+C:\Users\pranjal.misra\Desktop\PizzeriaApp.Data\bin\Debug\net5.0\ref\PizzeriaApp.Data.dll
+C:\Users\pranjal.misra\Desktop\PizzeriaApp.Data\bin\Debug\net5.0\PizzeriaApp.Data.pdb
+C:\Users\pranjal.misra\Desktop\PizzeriaApp.Data\obj\Debug\net5.0\PizzeriaApp.Data.csproj.AssemblyReference.cache
+C:\Users\pranjal.misra\Desktop\PizzeriaApp.Data\obj\Debug\net5.0\PizzeriaApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pranjal.misra\Desktop\PizzeriaApp.Data\obj\Debug\net5.0\PizzeriaApp.Data.AssemblyInfoInputs.cache
+C:\Users\pranjal.misra\Desktop\PizzeriaApp.Data\obj\Debug\net5.0\PizzeriaApp.Data.AssemblyInfo.cs
+C:\Users\pranjal.misra\Desktop\PizzeriaApp.Data\obj\Debug\net5.0\PizzeriaApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\pranjal.misra\Desktop\PizzeriaApp.Data\obj\Debug\net5.0\PizzeriaApp.Data.dll
+C:\Users\pranjal.misra\Desktop\PizzeriaApp.Data\obj\Debug\net5.0\ref\PizzeriaApp.Data.dll
+C:\Users\pranjal.misra\Desktop\PizzeriaApp.Data\obj\Debug\net5.0\PizzeriaApp.Data.pdb

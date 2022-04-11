@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\pranjal.misra\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\pranjal.misra\\.nuget\\packages"
+    ]
+  }
+}
